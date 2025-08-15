@@ -10,11 +10,11 @@
     </div>
     <style>
         footer {
-            background: linear-gradient(90deg, #ffb6c1 0%, #ff69b4 100%);
+            background: linear-gradient(90deg, #28a745 0%, #dc3545 100%);
             padding: 24px 0;
             text-align: center;
             color: #fff;
-            box-shadow: 0 2px 8px rgba(255, 182, 193, 0.15);
+            box-shadow: 0 2px 8px rgba(40, 167, 69, 0.15);
         }
         .footer-links {
             list-style: none;
@@ -45,3 +45,4 @@
             font-size: 1.1em;
             letter-spacing: 0.5px;
         }
+    </style>
